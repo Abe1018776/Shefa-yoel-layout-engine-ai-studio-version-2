@@ -1,0 +1,5 @@
+{
+  "name": "TriScriptor Layout Engine",
+  "description": "A dynamic book layout tool balancing three text sections (Main Text and two Commentaries) with distinct editing domains and AI-assisted content generation.",
+  "requestFramePermissions": []
+}
